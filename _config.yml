@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William Fleshman"
 title_separator          : "-"
 name                     : &name "William Fleshman"
-description              : &description "CS PhD Student at Johns Hopkins"
+description              : &description "CS PhD Student at Johns Hopkins University"
 url                      : https://fleshman.dev 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wfleshman/wfleshman.github.io"
