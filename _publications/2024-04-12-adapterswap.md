@@ -6,5 +6,5 @@ excerpt: 'Large language models (LLMs) are increasingly capable of completing kn
 date: 2024-04-12
 venue: ArXiv
 citation: 'William Fleshman, Aleem Khan, Marc Marone, and Benjamin Van Durme, AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Control Guarantees, 2024.'
-paperurl: 'fleshman.dev/files/adapterswap.pdf'
+paperurl: 'https://fleshman.dev/files/adapterswap.pdf'
 ---
