@@ -6,5 +6,5 @@ excerpt: As machine-learning (ML) based systems for malware detection become mor
 date: 2018-01-01
 venue: The 13th International Conference on Malicious and Unwanted Software (MALWARE) Best Paper!
 citation: 'Fleshman, W., Raff, E., Zak, R., McLean, M., & Nicholas, C. (2018). Static Malware Detection & Subterfuge: Quantifying the Robustness of Machine Learning and Current Anti-Virus. In The 13th International Conference on Malicious and Unwanted Software (MALWARE).'
-paperurl: '[Download](https://fleshman.dev/files/subterfuge.pdf)'
+paperurl: 'https://fleshman.dev/files/subterfuge.pdf'
 ---
