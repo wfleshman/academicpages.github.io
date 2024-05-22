@@ -6,6 +6,6 @@ excerpt: Organizations have long used deception as a means to exert influence in
 date: 2021-01-01
 venue: National Security Agency’s The Next Wave, Vol. 23, No. 1
 citation: 'B., B., Fleshman, W., H., K., Kaliszewski, R., R.,S. (2020). Deception and the
-Strategy of Influence. In National Security Agency’s The Next Wave, Vol. 23, No. 1'
+Strategy of Influence. In National Security Agency’s The Next Wave, Vol. 23, No. 1.'
 paperurl: 'https://fleshman.dev/nextwave.pdf'
 ---
