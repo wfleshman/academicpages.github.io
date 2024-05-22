@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 {% for post in site.awards reversed %}
-  {% include archive-single-award.html %}
+  {% include archive-single.html %}
 {% endfor %}
